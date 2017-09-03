@@ -1,5 +1,5 @@
-# Proof-Presale-Smart-Contracts
-Public Repository for Proof Smart Contracts
+# Proof Presale Smart Contract
+Public Repository for Proof Presale Smart Contract
 
 
 
@@ -23,14 +23,6 @@ The Crowdsale contract is inspired by the open-zeppelin `Crowdsale` contract wit
 
 
 #### Testing Environment Setup : 
-
-- Clone the repository and install dependencies
-
-``` 
-git clone https://github.com/ProofSuite/ProofPresaleContract.git
-cd ProofPresaleContract
-npm install
-```
 
 - Install the latest version of truffle
 
